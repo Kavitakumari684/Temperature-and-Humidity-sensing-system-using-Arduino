@@ -1,5 +1,4 @@
-// Using Arduino programming I made Temperature and humidity sensing system . 
-sensor DHT11 sense the environment condition and measure the temperature and humidity that  printed on lcd and serial monitor.
-In this project i also use buttons and dc motor.
-buttons are used to control the speed of the DC motor .
-When dc motor rotate. It generate air flow that altering the environment conditions sense by DHT11 sensor.
+# Temperature and Humidity sensing system.
+#Developed a Arduino programming code for Temperature and Humidity sensing system using Arduino and DHT11 sensor. I connect buttons, dc motor , motor driver ,DHT11 sensor , 16x2 LCD screen .
+To display the value I used Serial monitor and LCD .To control the speed of motor ,buttons are used .to drive motor L293D motor drive IC is used .
+The code I developed effectively measures the temperature and humidity of the surrounding environment.
